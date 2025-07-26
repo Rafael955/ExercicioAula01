@@ -30,7 +30,12 @@ Este projeto é um sistema simples de cadastro de funcionários desenvolvido em C#
 Ao executar o programa, será solicitado:
 
 INFORME OS DADOS DO FUNCIONÁRIO ABAIXO:
-NOME .....................: CPF ..................: MATRICULA ............: DATA DE ADMISSÃO .....: CARGO ................: SALÁRIO ..............:
+NOME .................: 
+CPF ..................: 
+MATRICULA ............: 
+DATA DE ADMISSÃO .....: 
+CARGO ................: 
+SALÁRIO ..............:
 
 Após o cadastro, os dados serão exportados e você poderá optar por cadastrar outro funcionário ou finalizar o programa.
 

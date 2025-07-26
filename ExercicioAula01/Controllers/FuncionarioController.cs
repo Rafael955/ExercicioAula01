@@ -20,7 +20,7 @@ namespace ExercicioAula01.Controllers
 
             funcionario.IdFuncionario = Guid.NewGuid();
 
-            Console.Write("NOME .....................: ");
+            Console.Write("NOME .................: ");
             funcionario.Nome = Console.ReadLine() ?? string.Empty;
 
             Console.Write("CPF ..................: ");
